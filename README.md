@@ -1,4 +1,4 @@
-# AlexaSmartHomeDemo
+# C# Alexa Smart Home demo
 This is the code associated with a live-coding session I recorded when I created an Amazon Echo Smart Home skill from scratch, in C#, making use of:
 * AWS Lambdas (C#)
 * AWS API Gateway
