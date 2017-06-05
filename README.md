@@ -8,6 +8,6 @@ This is the code associated with a live-coding session I recorded when I created
 
 The result is a smart home skill that lets you turn off your computer monitor using your Amazon Echo.
 
-Once the live-coding session is uploaded I'll link to it from here.
+Once the live-coding session is [here](https://youtu.be/ajzGjIXPg54)
 
 <img src="images/overview.png">
