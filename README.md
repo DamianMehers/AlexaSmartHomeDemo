@@ -9,3 +9,5 @@ This is the code associated with a live-coding session I recorded when I created
 Together with associated AWS profiles, roles, etc.
 
 Once the live-coding session is uploaded I'll link to it from here.
+
+<img src="images/overview.png">
